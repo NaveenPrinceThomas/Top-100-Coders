@@ -6,3 +6,8 @@
 > I've essenials knowledge about programming concepts
 >
 ### Portfolio Highlights
+
+#### Leadership & Influence
+1) Worked as the project team lead for semester mini-project
+2) Worked as the execom member of Web-developement team of the IEDC chapter of the college
+3) Currently standing as the mu-learn Web Developement IG Campus lead
